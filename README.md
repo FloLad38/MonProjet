@@ -8,3 +8,5 @@ It now includes steps for github
 
 
 Updated README with a line about focus.
+
+Updated README with hapiness 
