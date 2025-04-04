@@ -1,3 +1,5 @@
+#Fonctions de conversion
+
 def decimal_vers_binaire(n):
     if n == 0:
         return "0"
@@ -39,3 +41,4 @@ while True:
         break
     else:
         print("Choix invalide")
+
